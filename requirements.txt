@@ -1,0 +1,11 @@
+# Google Colab CPU rerun baseline. Install, restart once, then run the notebook.
+# This is not a verified lockfile for the supplied historical execution.
+# Colab supplies IPython, google.colab and Google authentication/API libraries.
+numpy==2.1.3
+pandas==2.3.3
+pyreadstat==1.3.6
+scikit-learn==1.6.1
+matplotlib==3.10.0
+joblib==1.6.0
+tensorflow==2.20.0
+tensorboard==2.20.0
