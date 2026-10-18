@@ -1,0 +1,4 @@
+split,rows,clusters,nonattendance_n,nonattendance_pct
+train,13444,1046,3536,26.301696
+validation,4446,351,1183,26.608187
+test,4542,358,1285,28.291502

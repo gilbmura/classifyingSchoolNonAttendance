@@ -1,0 +1,13 @@
+family,experiment,threshold,variable,group,n,positive_n,negative_n,false_negatives,recall,false_positive_rate
+classical,E10,0.35,HL4,FEMALE,2190,592,1598,180,0.695946,0.132040
+classical,E10,0.35,HL4,MALE,2256,591,1665,202,0.658206,0.123123
+classical,E10,0.35,HH6,RURAL,3008,951,2057,247,0.740273,0.159456
+classical,E10,0.35,HH6,URBAN,1438,232,1206,135,0.418103,0.072968
+classical,E10,0.35,target_origin,derived: never attended,859,859,0,166,0.806752,NaN
+classical,E10,0.35,target_origin,direct CB7,3587,324,3263,216,0.333333,0.127490
+neural,E06,0.38,HL4,FEMALE,2190,592,1598,181,0.694257,0.138924
+neural,E06,0.38,HL4,MALE,2256,591,1665,203,0.656514,0.136336
+neural,E06,0.38,HH6,RURAL,3008,951,2057,244,0.743428,0.175498
+neural,E06,0.38,HH6,URBAN,1438,232,1206,140,0.396552,0.072968
+neural,E06,0.38,target_origin,derived: never attended,859,859,0,165,0.807916,NaN
+neural,E06,0.38,target_origin,direct CB7,3587,324,3263,219,0.324074,0.137603

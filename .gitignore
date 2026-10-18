@@ -1,0 +1,63 @@
+# Survey microdata and archives
+*.sav
+*.zsav
+*.por
+*.dta
+*.sas7bdat
+*.csv
+!results_snapshot/*.csv
+*.zip
+*.7z
+*.rar
+data/
+raw_data/
+input/
+
+# Generated model files and row-level arrays
+*.joblib
+*.pkl
+*.pickle
+*.keras
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.parquet
+*.feather
+models/
+saved_model/
+checkpoint
+*.ckpt*
+
+# Runtime evidence (safe, curated results_snapshot/ and figures/ remain tracked)
+mics_project/
+preprocessing_artifacts/
+results/
+tensorboard/
+logs/
+wandb/
+events.out.tfevents.*
+*.log
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+credentials*.json
+client_secret*.json
+service_account*.json
+token*.json
+.netrc
+.config/
+
+# Python, notebook and editor files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+~$*

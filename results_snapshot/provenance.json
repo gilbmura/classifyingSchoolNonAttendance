@@ -1,0 +1,102 @@
+{
+  "source_notebook": "Nigeria_MICS_Final_Colab_TensorBoard.ipynb",
+  "source_notebook_sha256": "d2feb814ef39475c33231a00ea895d099bff1e88e6847fda30ea26572135c002",
+  "source_session": "20261017T214243-e13712d9",
+  "raw_rows": 22706,
+  "eligible_rows": 22432,
+  "fs_sav_sha256": "6e5283706128255d4393db19ef397d41a9116d20ad94db1bc42351ca7f566ae4",
+  "seed": 42,
+  "threshold_for_ten_run_comparison": 0.5,
+  "test_evaluated_in_this_execution": false,
+  "test_previously_inspected": true,
+  "run_ids": {
+    "E01": "20261017T214332-e5256835",
+    "E02": "20261017T214341-b348a7c9",
+    "E03": "20261017T214353-87659b13",
+    "E04": "20261017T214409-e82e56e9",
+    "E05": "20261017T214437-d1820830",
+    "E06": "20261017T214445-0da97061",
+    "E07": "20261017T214453-cd258795",
+    "E08": "20261017T214510-db3c6ae7",
+    "E09": "20261017T214706-3fa19769",
+    "E10": "20261017T214802-9a6aa1bd"
+  },
+  "selected": {
+    "classical": {
+      "experiment": "E10",
+      "threshold": 0.35,
+      "validation_average_precision": 0.716331
+    },
+    "neural": {
+      "experiment": "E06",
+      "threshold": 0.38,
+      "validation_average_precision": 0.712745
+    }
+  },
+  "visible_training_versions": {
+    "numpy": "2.1.3",
+    "pandas": "2.3.3",
+    "pyreadstat": "1.3.6",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.0",
+    "joblib": "1.6.0"
+  },
+  "not_displayed_in_original_execution": [
+    "python",
+    "tensorflow",
+    "tensorboard",
+    "keras"
+  ],
+  "original_install_cell": "%pip install -q \"numpy==2.1.3\" \"pandas==2.2.3\" \"pyreadstat==1.3.6\" \"scikit-learn==1.6.1\" \"matplotlib==3.10.0\" \"joblib==1.6.0\" \"tensorflow==2.21.0\" \"tensorboard==2.20.0\"",
+  "original_install_execution_count": 36,
+  "original_summary_execution_count": 35,
+  "precision_note": "CSV metric values reproduce displayed notebook precision (mostly four decimals); they are not the full precision runtime exports.",
+  "evidence_limits": "No runtime evidence ZIP was supplied. Event files, serialized models, complete CV search results and the runtime manifest were not independently inspected for this execution.",
+  "figures": [
+    {
+      "file": "training_group_patterns.png",
+      "source_cell_id": "cell-029",
+      "output_index": 4
+    },
+    {
+      "file": "neural_epoch_comparison.png",
+      "source_cell_id": "cell-083",
+      "output_index": 3
+    },
+    {
+      "file": "validation_metric_comparison.png",
+      "source_cell_id": "cell-083",
+      "output_index": 1
+    },
+    {
+      "file": "E06_validation_evaluation.png",
+      "source_cell_id": "cell-067",
+      "output_index": 3
+    },
+    {
+      "file": "E10_average_precision_learning_curve.png",
+      "source_cell_id": "cell-089",
+      "output_index": 0
+    },
+    {
+      "file": "E10_permutation_importance.png",
+      "source_cell_id": "cell-089",
+      "output_index": 2
+    },
+    {
+      "file": "all_runs_roc_precision_recall.png",
+      "source_cell_id": "cell-083",
+      "output_index": 2
+    },
+    {
+      "file": "classical_accuracy_learning_curves.png",
+      "source_cell_id": "cell-083",
+      "output_index": 4
+    },
+    {
+      "file": "selected_thresholds.png",
+      "source_cell_id": "cell-086",
+      "output_index": 1
+    }
+  ]
+}
