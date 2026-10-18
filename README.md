@@ -8,10 +8,7 @@ The supplied execution achieved **82.82% validation accuracy with E06**. E10 had
 
 ## Project links
 
-- GitHub repository: **[ADD YOUR REPOSITORY URL]**
-- Dataset file already used: [Nigeria MICS survey ZIP on Google Drive](https://drive.google.com/file/d/1a1mH3YSxAxGWKWs9sHXtvieoS1yTBAaF/view?usp=drive_link). Access depends on the owner's sharing settings; public access has not been verified.
-- Shared data and model **folder**: **[ADD GOOGLE DRIVE FOLDER URL]**. The dataset file link above is not a folder link and does not include the saved models.
-- Presentation video: **[ADD VIDEO URL]**
+- Dataset file already used: [Nigeria MICS survey ZIP on Google Drive](https://drive.google.com/file/d/1a1mH3YSxAxGWKWs9sHXtvieoS1yTBAaF/view?usp=drive_link).*
 
 ## Repository contents
 
