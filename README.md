@@ -1,7 +1,5 @@
 # School Nonattendance in Nigeria: MICS 2021
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USER/YOUR_REPO/blob/main/Nigeria_MICS_Summative.ipynb)
-
 This project classifies whether a child aged 5-17 reported attending school during the current school year, using the Nigeria MICS 2021 household survey. It compares ten classical and neural experiments (logistic regression, random forests, gradient boosting and Keras neural networks) on identical community-level data splits.
 
 The task is to classify reported attendance. It does not predict future dropout or establish the causes of nonattendance.
@@ -10,10 +8,9 @@ The task is to classify reported attendance. It does not predict future dropout 
 
 ## Project links
 
-- GitHub repository: **[ADD REPOSITORY URL]**
-- Presentation video: **[ADD VIDEO URL]**
-- Shared data and model folder: **[ADD GOOGLE DRIVE FOLDER URL]**
-- Dataset file used: [Nigeria MICS survey ZIP on Google Drive](https://drive.google.com/file/d/1a1mH3YSxAxGWKWs9sHXtvieoS1yTBAaF/view?usp=drive_link). Access depends on the owner's sharing settings.
+- GitHub repository: **Should be found on project report**
+- Presentation video: **Should be found on project report**
+- Dataset file used: **Should be found on project report**
 
 ## Results
 
